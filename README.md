@@ -1,6 +1,6 @@
 # csmathHW01
 homework1 of csmath
-by 付聪, graduate students of ZJU in China.
+by 付聪 11521012, graduate students of ZJU in China.
 
 
 multinomial curve fitting.
